@@ -5,6 +5,11 @@ theme: "anubis"
 
 menu:
   main:
+  - identifier: about
+    name: About
+    title: About
+    url: /about
+    weight: 0
   - identifier: archive
     name: Archive
     title: Archive
