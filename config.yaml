@@ -10,11 +10,19 @@ menu:
     title: About
     url: /about
     weight: 0
+  - identifier: tags
+    name: Tags
+    title: Tags
+    url: /tags/
+    weight: 0
   - identifier: archive
     name: Archive
     title: Archive
     url: /posts/
     weight: 0
+
+params:
+  paginationSinglePost: true
     
 markup:
   goldmark:
