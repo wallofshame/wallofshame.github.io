@@ -14,15 +14,16 @@ menu:
     name: Tags
     title: Tags
     url: /tags/
-    weight: 0
+    weight: 1
   - identifier: archive
     name: Archive
     title: Archive
     url: /posts/
-    weight: 0
+    weight: 2
 
 params:
   paginationSinglePost: true
+  readMore: false
     
 markup:
   goldmark:
