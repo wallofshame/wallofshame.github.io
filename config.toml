@@ -1,8 +1,0 @@
-baseURL = "https://pillar-of-shame.github.io"
-languageCode = "zh-CN"
-title = "Shame"
-theme = "anubis"
-
-[params]
-headTitle = "Shame"
-mainSections = ["posts"]

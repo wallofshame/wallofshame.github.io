@@ -1,0 +1,17 @@
+baseURL: "https://pillar-of-shame.github.io"
+languageCode: "zh-CN"
+title: "Shame"
+theme: "anubis"
+
+menu:
+  main:
+  - identifier: archive
+    name: Archive
+    title: Archive
+    url: /posts/
+    weight: 0
+    
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # enable raw HTML in Markdown
