@@ -1,13 +1,12 @@
 ---
 title:  "如何协作参与耻辱墙"
-date:   2018-04-01
 ---
 
 ## "耻辱墙" 是什么
 
 耻辱墙旨在记录社会上企业或个人的 "耻辱" 行径, 以免后人踩坑.
 
-## 如何参与端点星计划
+## 如何参与
 
 ### 需要的基本技能
 
@@ -22,9 +21,9 @@ date:   2018-04-01
 
 1. 注册并登录 [GitHub](https://github.com/) 帐号
 
-2. fork 耻辱墙 仓库到自己的 GitHub: 访问[耻辱墙](https://github.com/wallofshame/wallofshame.github.io) GitHub 页面，点击右上角 **Fork** 按钮。
+2. fork 耻辱墙 仓库到自己的 GitHub: 访问 [耻辱墙](https://github.com/wallofshame/wallofshame.github.io) GitHub 页面，点击右上角 **Fork** 按钮。
 
-3. 认领备份：查看[耻辱墙 issues](https://github.com/wallofshame/wallofshame.github.io/issues)，在标记为 404、help-wanted 的 issue 中发布评论，表示认领该备份文章编辑。
+3. 认领备份：查看 [耻辱墙 issues](https://github.com/wallofshame/wallofshame.github.io/issues)，在标记为 404、help-wanted 的 issue 中发布评论，表示认领该备份文章编辑。
 
 4. 编辑文章备份：在自己帐号里面的 wallofshame.github.io 仓库，编辑添加备份的文章。
 
