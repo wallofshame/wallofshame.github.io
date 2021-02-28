@@ -5,7 +5,7 @@ date:   2018-04-01
 
 ## "耻辱墙" 是什么
 
-耻辱墙旨在集中记录社会上的 "耻辱" 行径, 以免后人踩坑.
+耻辱墙旨在记录社会上企业或个人的 "耻辱" 行径, 以免后人踩坑.
 
 ## 如何参与端点星计划
 
@@ -33,11 +33,9 @@ date:   2018-04-01
       2. 命名文章标题：统一格式为「Year-Month-Day-title.md」，例如 `2018-01-01-biao-ti.md`
       3. 在下方 **Edit new file** 空白区域编辑内容，编辑格式看下方[格式编辑要求](#格式编辑要求)
       4. 点击 **Preview** 可预览效果
-        ![add_new_post.png](https://i.loli.net/2020/02/09/uhZUAWm6yr3MJ4I.png)
 
     - 第二种方式：从本地上传已编辑的 md 文档
       1. 点击进入 `_posts/` 文件夹，点击 **Upload files**
-        ![drag_files.png](https://i.loli.net/2020/02/09/Be21nogCdw4pJlE.png)
       2. 从本地选择要上传的 md 文档
 
 5. 填写 **commit new file**
