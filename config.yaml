@@ -6,18 +6,18 @@ theme: "anubis"
 menu:
   main:
   - identifier: about
-    name: About
-    title: About
-    url: /about
+    name: 参与协作
+    title: 参与协作
+    url: /participate
     weight: 0
   - identifier: tags
-    name: Tags
-    title: Tags
+    name: 标签
+    title: 标签
     url: /tags/
     weight: 1
   - identifier: archive
-    name: Archive
-    title: Archive
+    name: 归档
+    title: 归档
     url: /posts/
     weight: 2
 
