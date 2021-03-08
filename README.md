@@ -15,3 +15,48 @@
 ### 本站内容界限
 
 本站的内容仅限于社会上的企业和大 V 的 "耻辱" 行径. 不要试图发布政治话题.
+
+## 文章贡献说明
+
+### 目录结构
+
+文章请直接创建在本仓库的 `content/posts/` 目录下, 如果有图片, 在 `content/posts/` 目录下创建与文章同名的目录 (称为资源目录), 并将图片放入此目录中, 并在文章中使用相对路径指向图片.
+
+示例:
+
+```
+content/
+  posts/
+    demo-article.md
+  demo-article/
+    demo-image.png
+```
+
+要想在 demo-article.md 里引用图片 demo-image.png, 只需要使用如下的 markdown 语法:
+
+```
+![](demo-image.png)
+```
+
+注意图片路径不必是 `demo-article/demo-image.png`, 仅需是 `demo-image.png`.
+
+### 文章头部信息 (front matter)
+
+```
+---
+title: 一女生实名指控曾受沈阳性骚扰
+date: 2018-04-09
+tags: 沈阳
+description: 这位女生名叫许红云，她希望更多被沈阳侵扰的女生勇敢地站出来，勇敢地面对过去和现在，才能看到未来。
+---
+```
+
+### 来源说明格式
+
+```
+---
+原文来自公号名称/网站名称：~~[文章标题](原文链接)~~
+   
+作者：XXX
+---
+```
