@@ -6,9 +6,9 @@ theme: "anubis"
 menu:
   main:
   - identifier: about
-    name: 参与协作
-    title: 参与协作
-    url: /participate
+    name: 关于耻辱墙
+    title: 关于耻辱墙
+    url: /about
     weight: 0
   - identifier: tags
     name: 标签
