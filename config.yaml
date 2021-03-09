@@ -8,7 +8,7 @@ menu:
   - identifier: about
     name: 关于耻辱墙
     title: 关于耻辱墙
-    url: /about
+    url: https://github.com/wallofshame/wallofshame.github.io
     weight: 0
   - identifier: tags
     name: 标签
