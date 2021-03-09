@@ -20,7 +20,7 @@
 
 ### 目录结构
 
-文章请直接创建在本仓库的 `content/posts/` 目录下, 如果有图片, 在 `content/posts/` 目录下创建与文章同名的目录 (称为资源目录), 并将图片放入此目录中, 并在文章中使用相对路径指向图片.
+文章请直接创建在 [本仓库](https://github.com/wallofshame/wallofshame.github.io) 的 `content/posts/` 目录下, 如果有图片, 在 `content/posts/` 目录下创建与文章同名的目录 (称为资源目录), 并将图片放入此目录中, 并在文章中使用相对路径指向图片.
 
 示例:
 
