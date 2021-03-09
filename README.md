@@ -30,8 +30,8 @@
 content/
   posts/
     demo-article.md
-  demo-article/
-    demo-image.png
+    demo-article/
+      demo-image.png
 ```
 
 要想在 demo-article.md 里引用图片 demo-image.png, 只需要使用如下的 markdown 语法:
