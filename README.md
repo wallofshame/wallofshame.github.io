@@ -1,4 +1,4 @@
-# 耻辱墙
+# [耻辱墙](https://github.com/wallofshame/wallofshame.github.io/issues)
 
 访问地址: https://github.com/wallofshame/wallofshame.github.io/issues
 
@@ -20,7 +20,7 @@
 
 ## 内容贡献说明
 
-直接在 Issues(https://github.com/wallofshame/wallofshame.github.io/issues) 里创建对应的条目, 标题尽量简短清晰, 选择或创建相应的标签, 内容可以是全文或者指向内容源的链接.
+直接在 [Issues](https://github.com/wallofshame/wallofshame.github.io/issues) 里创建对应的条目, 标题尽量简短清晰, 选择或创建相应的标签, 内容可以是全文或者指向内容源的链接.
 
 参考: https://github.com/wallofshame/wallofshame.github.io/issues/1
 
