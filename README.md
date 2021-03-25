@@ -1,6 +1,6 @@
 # 耻辱墙
 
-访问地址: https://wallofshame.github.io
+访问地址: https://github.com/wallofshame/wallofshame.github.io/issues
 
 在这个信息流充斥的时代, 大众普遍对于发生的事情只有几天甚至几小时的记忆, 而我们历史的长河中有很多事情, 不论是好事还是坏事, 都是不该被忘记的.
 
@@ -18,47 +18,22 @@
 
 本站的内容仅限于社会上的企业和大 V 的 "耻辱" 行径. 不要试图发布政治话题.
 
-## 文章贡献说明
+## 内容贡献说明
 
-### 目录结构
+直接在 Issues(https://github.com/wallofshame/wallofshame.github.io/issues) 里创建对应的条目, 标题尽量简短清晰, 选择或创建相应的标签, 内容可以是全文或者指向内容源的链接.
 
-文章请直接创建在 [本仓库](https://github.com/wallofshame/wallofshame.github.io) 的 `content/posts/` 目录下, 如果有图片, 在 `content/posts/` 目录下创建与文章同名的目录 (称为资源目录), 并将图片放入此目录中, 并在文章中使用相对路径指向图片.
+参考: https://github.com/wallofshame/wallofshame.github.io/issues/1
 
-示例:
+### 关于标签的创建
 
-```
-content/
-  posts/
-    demo-article.md
-    demo-article/
-      demo-image.png
-```
+尽量以人物和企业名称作为标签名(以方便大家检索), 并赋予他们简短的描述.
 
-要想在 demo-article.md 里引用图片 demo-image.png, 只需要使用如下的 markdown 语法:
+### 关于内容时效性
 
-```
-![](demo-image.png)
-```
+有些企业可能当下有些不好的风评, 但是后来改进了. 这种情况对应的 Issues 可以被关闭, 但是不会被删除, 后来人能够知晓企业曾经有过的行为.
 
-注意图片路径不必是 `demo-article/demo-image.png`, 仅需是 `demo-image.png`.
+### 关于链接可靠性
 
-### 文章头部信息 (front matter)
+创建 Issues 引用外部链接时, 要尽量保证内容源能够长期被访问, 如果引用了不可靠的内容源, 则尽量先通过 https://archive.org/ 创建内容源的备份.
 
-```
----
-title: 一女生实名指控曾受沈阳性骚扰
-date: 2018-04-09
-tags: 沈阳
-description: 这位女生名叫许红云，她希望更多被沈阳侵扰的女生勇敢地站出来，勇敢地面对过去和现在，才能看到未来。
----
-```
-
-### 来源说明格式
-
-```
----
-原文来自公号名称/网站名称：~~[文章标题](原文链接)~~
-   
-作者：XXX
----
-```
+不可靠的内容源包括: 微信公众号文章的网页链接, 等等
